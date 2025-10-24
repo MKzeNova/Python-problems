@@ -1,2 +1,1 @@
-# Python-problems
-This repository contains solved simple python programs from previous year's KTU exams and practice questions( "Algorithimic thinking with python" ) . Each problems is organised by topics (strings, loops, arrays, functions, ...).
+This repository contains my own solution and simple explanations to basic Python problems from many resources and textbooks, that will help you to build strong foundation in programming and logical thinking.Each problem is designed for 'begginers' who want to understand Python concepts deeply and improve problem-solving skills step by step
