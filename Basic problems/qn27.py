@@ -7,10 +7,11 @@ for i in list:
     if i>500:
         break
     elif i>150:
-        continue
+        continue  #Meaning of continue:It skips the rest of the code inside the loop for this iteration and moves to the next number.
         print("hI")
     elif i%5==0:
         print(i)
 
 #output 75 150 145
+
      
