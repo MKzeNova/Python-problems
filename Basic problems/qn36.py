@@ -1,0 +1,13 @@
+#Create a program with nested functions to perform an addition calculation as follows:
+ #Define an outer function that accepts two parameters, a and b.
+ #Inside this outer function, define an inner function that calculates the sum of a and b.
+ #The outer function should then add 5 to this sum.
+ #Finally, the outer function should return the resulting value.”
+def outer_function(a,b):
+    def inner_function(a,b):
+        return a+b
+    result=inner_function(a,b)
+    return result+5
+n1=int(input("Enter first number:"))
+n2=int(input("Enter second number:"))
+print(outer_function(n1,n2))
