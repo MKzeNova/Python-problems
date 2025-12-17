@@ -5,5 +5,5 @@ def isvowel(letter):
         print(letter, "is vowel")
     else:
         print(letter, "is not vowel")
-cha=str(input("Enter your character: "))
-isvowel(cha)
+character=str(input("Enter your character: "))
+isvowel(character)
