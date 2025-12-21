@@ -1,1 +1,1 @@
-# 100+ Basic-Python-Problems
+This repository contains my own solution and simple explanations to basic Python problems from many resources and textbooks, that will help you to build strong foundation in programming and logical thinking.Each problem is designed for 'begginers' who want to understand Python concepts deeply and improve problem-solving skills step by step
