@@ -7,3 +7,4 @@ if r==0:
 else:
 
     print("Area of the given circle=",math.pi*r*r)
+
